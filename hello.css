@@ -1,6 +1,10 @@
 *{
-  
   padding:0;
   box-sizing:border-box;
   margin:0;
+}
+h1{
+    font-size:22px;
+    color:aliceblue;
+    font-weight: bolder;
 }
